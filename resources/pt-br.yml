@@ -1,0 +1,4 @@
+missing_permission: "Você não tem permissão para fazer isso!"
+missing_arguments: "Está faltando argumentos! {0}"
+user_not_found: "Usuário {0} não foi encontrado!"
+guild_not_found: "Guild {0} não foi encontrada!"
