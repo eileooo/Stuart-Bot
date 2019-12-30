@@ -48,5 +48,6 @@ fun socialCommands() = commands("social") {
 }
 
 fun main() {
+    socialCommands()
     println(commandSets)
 }
